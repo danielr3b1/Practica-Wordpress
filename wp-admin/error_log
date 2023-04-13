@@ -1,0 +1,1 @@
+[13-Apr-2023 09:04:19 UTC] PHP Warning:  copy(/home5/trabajosenatipru/public_html/wordpress/wp-content/uploads/photo-gallery/imported_from_media_libray/thumb/256-256-d14c8c035b3c8f8d7c74085ce761c24e-lg.png): failed to open stream: No such file or directory in /home5/trabajosenatipru/public_html/wordpress/wp-content/plugins/photo-gallery/filemanager/UploadHandler.php on line 630

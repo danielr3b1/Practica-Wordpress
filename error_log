@@ -1,0 +1,37 @@
+[13-Apr-2023 06:36:01 UTC] Cron reschedule event error for hook: bwg_schedule_event_hook, Error code: invalid_schedule, Error message: El evento programado no existe., Data: {"schedule":"bwg_autoupdate_interval","args":[],"interval":1800}
+[13-Apr-2023 08:28:55 UTC] The Automattic\WooCommerce\Admin\API\Options::get_options function is deprecated since version 3.1.
+[13-Apr-2023 08:28:56 UTC] The Automattic\WooCommerce\Admin\API\Options::get_options function is deprecated since version 3.1.
+[13-Apr-2023 08:55:45 UTC] WordPress database error Commands out of sync; you can't run this command now for query SELECT `ID` FROM `wp_sgs_log_visitors`
+					WHERE `ip` = '138.185.15.52'
+					AND `user_id` = 0
+				; made by SG_Security\Activity_Log\Activity_Log_Unknown->log_visit, SG_Security\Activity_Log\Activity_Log_Helper->get_visitor_by_ip
+[13-Apr-2023 08:55:45 UTC] WordPress database error Commands out of sync; you can't run this command now for query SHOW FULL COLUMNS FROM `wp_sgs_log_visitors` made by SG_Security\Activity_Log\Activity_Log_Unknown->log_visit, SG_Security\Activity_Log\Activity_Log_Helper->get_visitor_by_ip
+[13-Apr-2023 08:55:45 UTC] WordPress database error Commands out of sync; you can't run this command now for query SELECT `ID` FROM `wp_sgs_log_visitors`
+					WHERE `ip` = '138.185.15.52'
+				; made by SG_Security\Activity_Log\Activity_Log_Unknown->log_visit, SG_Security\Activity_Log\Activity_Log_Helper->get_visitor_by_ip
+[13-Apr-2023 08:55:45 UTC] WordPress database error Commands out of sync; you can't run this command now for query SELECT option_value FROM wp_options WHERE option_name = 'sg_security_user_ping_services' LIMIT 1 made by SG_Security\Activity_Log\Activity_Log_Unknown->log_visit, SG_Security\Activity_Log\Activity_Log_Unknown->get_visitor_type, SG_Security\Activity_Log\Activity_Log_Unknown->check_for_pingbots, get_option
+[13-Apr-2023 08:55:45 UTC] WordPress database error Commands out of sync; you can't run this command now for query SELECT option_value FROM wp_options WHERE option_name = 'sg_security_user_crawlers' LIMIT 1 made by SG_Security\Activity_Log\Activity_Log_Unknown->log_visit, SG_Security\Activity_Log\Activity_Log_Unknown->get_visitor_type, SG_Security\Activity_Log\Activity_Log_Unknown->check_for_crawlers, get_option
+[13-Apr-2023 08:55:45 UTC] WordPress database error Commands out of sync; you can't run this command now for query SHOW TABLES LIKE 'wp_sgs_log_visitors' made by SG_Security\Activity_Log\Activity_Log_Unknown->log_visit, SG_Security\Activity_Log\Activity_Log_Helper->insert, SG_Security\Activity_Log\Activity_Log_Helper->check_for_duplicates, SG_Security\Helper\Helper::table_exists
+[13-Apr-2023 08:55:45 UTC] WordPress database error Commands out of sync; you can't run this command now for query SHOW FULL COLUMNS FROM `wp_sgs_log_events` made by SG_Security\Activity_Log\Activity_Log_Unknown->log_visit, SG_Security\Activity_Log\Activity_Log_Helper->insert
+[13-Apr-2023 09:07:26 UTC] The Automattic\WooCommerce\Admin\API\Options::get_options function is deprecated since version 3.1.
+[13-Apr-2023 09:07:26 UTC] The Automattic\WooCommerce\Admin\API\Options::get_options function is deprecated since version 3.1.
+[13-Apr-2023 09:11:17 UTC] The Automattic\WooCommerce\Admin\API\Options::get_options function is deprecated since version 3.1.
+[13-Apr-2023 09:11:18 UTC] The Automattic\WooCommerce\Admin\API\Options::get_options function is deprecated since version 3.1.
+[13-Apr-2023 09:17:16 UTC] The Automattic\WooCommerce\Admin\API\Options::get_options function is deprecated since version 3.1.
+[13-Apr-2023 09:17:16 UTC] The Automattic\WooCommerce\Admin\API\Options::get_options function is deprecated since version 3.1.
+[13-Apr-2023 09:44:59 UTC] The Automattic\WooCommerce\Admin\API\Options::get_options function is deprecated since version 3.1.
+[13-Apr-2023 09:44:59 UTC] The Automattic\WooCommerce\Admin\API\Options::get_options function is deprecated since version 3.1.
+[13-Apr-2023 09:49:00 UTC] The Automattic\WooCommerce\Admin\API\Options::get_options function is deprecated since version 3.1.
+[13-Apr-2023 09:49:00 UTC] The Automattic\WooCommerce\Admin\API\Options::get_options function is deprecated since version 3.1.
+[13-Apr-2023 09:51:48 UTC] The Automattic\WooCommerce\Admin\API\Options::get_options function is deprecated since version 3.1.
+[13-Apr-2023 09:51:48 UTC] The Automattic\WooCommerce\Admin\API\Options::get_options function is deprecated since version 3.1.
+[13-Apr-2023 09:58:50 UTC] The Automattic\WooCommerce\Admin\API\Options::update_options function is deprecated since version 3.1.
+[13-Apr-2023 09:58:50 UTC] The Automattic\WooCommerce\Admin\API\Options::update_options function is deprecated since version 3.1.
+[13-Apr-2023 09:58:50 UTC] The Automattic\WooCommerce\Admin\API\Options::update_options function is deprecated since version 3.1.
+[13-Apr-2023 09:58:50 UTC] The Automattic\WooCommerce\Admin\API\Options::update_options function is deprecated since version 3.1.
+[13-Apr-2023 10:03:12 UTC] The Automattic\WooCommerce\Admin\API\Options::get_options function is deprecated since version 3.1.
+[13-Apr-2023 10:03:12 UTC] The Automattic\WooCommerce\Admin\API\Options::get_options function is deprecated since version 3.1.
+[13-Apr-2023 10:09:00 UTC] The Automattic\WooCommerce\Admin\API\Options::get_options function is deprecated since version 3.1.
+[13-Apr-2023 10:09:01 UTC] The Automattic\WooCommerce\Admin\API\Options::get_options function is deprecated since version 3.1.
+[13-Apr-2023 10:12:08 UTC] The Automattic\WooCommerce\Admin\API\Options::get_options function is deprecated since version 3.1.
+[13-Apr-2023 10:12:08 UTC] The Automattic\WooCommerce\Admin\API\Options::get_options function is deprecated since version 3.1.
